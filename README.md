@@ -56,7 +56,7 @@ Right now, I'm learning, building, and improving every day through projects and 
 - CRUD operations for attendance and reporting
 - Implemented secure REST APIs with authentication  
 
-🔗 *(Add Project Link)*
+
 
 ---
 
@@ -66,7 +66,7 @@ Right now, I'm learning, building, and improving every day through projects and 
 - Secure backend contact form with validation  
 - Clean structure and reusable components  
 
-🔗 *(Add Project Link)*
+
 
 ---
 
